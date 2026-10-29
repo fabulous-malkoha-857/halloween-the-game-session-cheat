@@ -1,0 +1,22 @@
+{
+  "name": "halloween-the-game-session-toolkit",
+  "displayName": "Halloween The Game Session Toolkit",
+  "programType": "session-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Session profiles",
+    "Equipment notes",
+    "Control reference"
+  ],
+  "topics": [
+    "halloween-the-game-session-toolkit",
+    "halloween-the-game-tools",
+    "halloween-the-game-menu",
+    "halloween-the-game-settings",
+    "halloween-the-game-configs",
+    "halloween-the-game-session-profiles",
+    "halloween-the-game-equipment-notes"
+  ]
+}
